@@ -1,0 +1,16 @@
+*{
+    font-family: urbanist, sans-serif;
+    
+}
+h1 {
+    text-align: center;
+}
+p{
+    font-size: 12pt;
+    font-weight: 500;
+    border: 10px solid yellow;
+    border-radius: 20px;
+    background-color: lightcoral;
+    padding: 20px;
+    margin: 20px;
+}
